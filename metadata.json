@@ -1,0 +1,6 @@
+{
+  "name": "AegisHealth Intelligence",
+  "description": "Executive hospital management analytics dashboard with embedded AI decision support, revenue forecasting, workload balancing, and billing risk monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
